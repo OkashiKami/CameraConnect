@@ -1,0 +1,2 @@
+rootProject.name='ICam'
+include ':app'
